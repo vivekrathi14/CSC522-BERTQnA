@@ -5,7 +5,9 @@ Text Labelling using BERT.
 
 This is a [Google Quest Kaggle challenge](https://www.kaggle.com/competitions/google-quest-challenge) project.
 
+![Project Image](q_n_a.png)
 
+Image source: [Kaggle](https://www.kaggle.com/competitions/google-quest-challenge)
 
 ## Key Skills Learned:
 1. Natural Language Processing (NLP): Working with BERT for understanding and processing text data, improving context interpretation in subjective question-answering.
